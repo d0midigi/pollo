@@ -3,6 +3,10 @@ layout: page
 title: Github Pages
 navigation: 3
 ---
+---
+layout: page
+title: test
+navigation: 4
 
 # Github Pages
 
